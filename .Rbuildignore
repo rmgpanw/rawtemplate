@@ -2,3 +2,12 @@
 ^renv\.lock$
 ^rawtemplate\.Rproj$
 ^\.Rproj\.user$
+^_targets\.R$
+^_workflowr\.yml$
+^_targets*
+^raw_data*
+^output*
+^code*
+^analysis*
+^public*
+^docs*
